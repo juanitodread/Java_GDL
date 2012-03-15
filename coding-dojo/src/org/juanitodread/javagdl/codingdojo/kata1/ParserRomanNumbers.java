@@ -3,7 +3,6 @@ package org.juanitodread.javagdl.codingdojo.kata1;
 /**
  * User: juanitodread
  * Date: 3/14/12
- * Time: 11:24 PM
  */
 public class ParserRomanNumbers {
     public static int[] arabigos = {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
