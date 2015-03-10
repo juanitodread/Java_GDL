@@ -7,7 +7,7 @@ lazy val root = (project in file(".")).
 	settings(
 		name := "Openweather REST Service",
 		version := "1.0",
-		organization := "org.juanitodread.scalastbtest"
+		organization := "org.juanitodread"
 	).
 	settings (
 		libraryDependencies ++= backendDeps
